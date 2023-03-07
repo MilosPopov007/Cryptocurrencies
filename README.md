@@ -21,3 +21,9 @@ We created a new DataFrame with the scaled data, CoinName, and Class columns.<br
 
 
 ![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/cluster_df.png)
+
+![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/Elbow.png)
+
+## Visualizing Cryptocurrencies:
+
+We used various visualization techniques to analyze the cryptocurrency data, including a 3D scatter plot, a 2D scatter plot, and a table.<br> We also created interactive visualizations using the hvplot library.
