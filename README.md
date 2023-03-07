@@ -11,3 +11,10 @@ Prominent investment bank, is interested in offering a new cryptocurrency invest
 
 I began the project by collecting cryptocurrency data from the CryptoCompare website using the API.<br>
 We cleaned and preprocessed the data by dropping null values and non-cryptocurrency data.<br> Then, we standardized the data using the StandardScaler method from the scikit-learn library.<br> We used Principal Component Analysis (PCA) to reduce the dimensions of the data to three principal components to visualize the data in 3D.
+
+
+## Cryptocurrency Clustering:
+
+I used the K-means algorithm to cluster the cryptocurrencies into four different groups.<br>
+We selected the optimal number of clusters by using the elbow curve and visualizing the clusters with a 2D scatter plot.<br>
+We created a new DataFrame with the scaled data, CoinName, and Class columns.<br>
