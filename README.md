@@ -28,6 +28,14 @@ We created a new DataFrame with the scaled data, CoinName, and Class columns.<br
 
 We used various visualization techniques to analyze the cryptocurrency data, including a 3D scatter plot, a 2D scatter plot, and a table.<br> We also created interactive visualizations using the hvplot library.<br><br>
 
-![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/3D.png)
+![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/3D.png)<br><br>
+
+the transformation of the tradable cryptocurrency data was done by using the MinMaxScaler() function.<br> This transformation was necessary to scale the TotalCoinSupply and TotalCoinsMined columns between the given range of zero and one, so that they can be used in the K-means clustering algorithm.
+
+After the transformation, we created a new DataFrame with the scaled data, CoinName, and Class columns. We then used this DataFrame to create a scatter plot of the scaled TotalCoinsMined and TotalCoinSupply columns, which allowed us to visually inspect the distribution of the different cryptocurrency clusters.<br><br>
+
+
+![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/scat_plot.png)
+
 
 
