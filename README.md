@@ -1,1 +1,3 @@
 # Cryptocurrencies
+
+Prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked me to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. The popularity of Bitcoin has caused a price jump. That makes it unaffordable for many new investors. However, there are many, many more cryptocurrencies available at more affordable prices. Since there is no known output and the data is not ideal, this will be a perfect job for unsupervised machine learning.
