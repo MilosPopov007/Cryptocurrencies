@@ -17,4 +17,7 @@ We cleaned and preprocessed the data by dropping null values and non-cryptocurre
 
 I used the K-means algorithm to cluster the cryptocurrencies into four different groups.<br>
 We selected the optimal number of clusters by using the elbow curve and visualizing the clusters with a 2D scatter plot.<br>
-We created a new DataFrame with the scaled data, CoinName, and Class columns.<br>
+We created a new DataFrame with the scaled data, CoinName, and Class columns.<br><br>
+
+
+![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/cluster_df.png)
