@@ -4,3 +4,10 @@ Prominent investment bank, is interested in offering a new cryptocurrency invest
 
 
 ![This is an image](https://github.com/MilosPopov007/Cryptocurrencies/blob/main/Resources/bitcoin-crypto-currency.jpg)
+
+
+
+## Data Preprocessing:
+
+I began the project by collecting cryptocurrency data from the CryptoCompare website using the API.<br>
+We cleaned and preprocessed the data by dropping null values and non-cryptocurrency data.<br> Then, we standardized the data using the StandardScaler method from the scikit-learn library.<br> We used Principal Component Analysis (PCA) to reduce the dimensions of the data to three principal components to visualize the data in 3D.
