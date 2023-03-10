@@ -40,7 +40,7 @@ After the transformation, we created a new DataFrame with the scaled data, CoinN
 
 ## Summary:
 
-In conclusion, our analysis demonstrated the effectiveness of unsupervised machine learning in grouping and classifying cryptocurrency trading data. We were able to apply the K-means algorithm to identify meaningful patterns in the data and group the cryptocurrencies into four different clusters. This analysis was made possible through unsupervised machine learning, which enabled us to identify patterns in the data without prior knowledge of the outcome or any input-output pairs.
+Our analysis demonstrated the effectiveness of unsupervised machine learning in grouping and classifying cryptocurrency trading data. We were able to apply the K-means algorithm to identify meaningful patterns in the data and group the cryptocurrencies into four different clusters. This analysis was made possible through unsupervised machine learning, which enabled us to identify patterns in the data without prior knowledge of the outcome or any input-output pairs.
 
 Our use of unsupervised machine learning in this analysis demonstrates the potential of this approach in identifying hidden patterns and grouping data in a wide range of applications. By using unsupervised machine learning, we can analyze data without the need for a labeled dataset, which is particularly useful in situations where data is unstructured or unknown. Furthermore, unsupervised machine learning can help to identify outliers, anomalies, and patterns in large datasets that are difficult to visualize or analyze manually.
 
